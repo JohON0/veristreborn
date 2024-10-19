@@ -1,5 +1,6 @@
 # Verist Reborn (src last build)
 twister smarter please(
+leaked by @attack.dev && @johon0 && @litvin.dev
 
 # ScreenShots
 
