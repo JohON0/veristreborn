@@ -1,6 +1,6 @@
 # Verist Reborn (src last build)
 twister smarter please(
-leaked by 
+# leaked by: 
 [@attack.dev](https://github.com/attackd3v)
 [@johon0](https://github.com/JohON0)
 [@MihailLitvin](https://github.com/MihailLitvin)
